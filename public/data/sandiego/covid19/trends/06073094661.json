@@ -1,0 +1,212 @@
+[
+  {
+    "date": "2025-03-01",
+    "day": 1,
+    "reportedCases": 41,
+    "estimatedCases": 33,
+    "isEstimated": true
+  },
+  {
+    "date": "2025-03-02",
+    "day": 2,
+    "reportedCases": 45,
+    "estimatedCases": 39,
+    "isEstimated": true
+  },
+  {
+    "date": "2025-03-03",
+    "day": 3,
+    "reportedCases": 56,
+    "estimatedCases": 49,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-04",
+    "day": 4,
+    "reportedCases": 58,
+    "estimatedCases": 73,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-05",
+    "day": 5,
+    "reportedCases": 73,
+    "estimatedCases": 72,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-06",
+    "day": 6,
+    "reportedCases": 84,
+    "estimatedCases": 71,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-07",
+    "day": 7,
+    "reportedCases": 101,
+    "estimatedCases": 85,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-08",
+    "day": 8,
+    "reportedCases": 114,
+    "estimatedCases": 131,
+    "isEstimated": true
+  },
+  {
+    "date": "2025-03-09",
+    "day": 9,
+    "reportedCases": 145,
+    "estimatedCases": 156,
+    "isEstimated": true
+  },
+  {
+    "date": "2025-03-09",
+    "day": 10,
+    "reportedCases": 149,
+    "estimatedCases": 168,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-10",
+    "day": 11,
+    "reportedCases": 167,
+    "estimatedCases": 215,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-11",
+    "day": 12,
+    "reportedCases": 213,
+    "estimatedCases": 260,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-12",
+    "day": 13,
+    "reportedCases": 237,
+    "estimatedCases": 267,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-13",
+    "day": 14,
+    "reportedCases": 284,
+    "estimatedCases": 286,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-14",
+    "day": 15,
+    "reportedCases": 333,
+    "estimatedCases": 351,
+    "isEstimated": true
+  },
+  {
+    "date": "2025-03-15",
+    "day": 16,
+    "reportedCases": 421,
+    "estimatedCases": 397,
+    "isEstimated": true
+  },
+  {
+    "date": "2025-03-16",
+    "day": 17,
+    "reportedCases": 478,
+    "estimatedCases": 487,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-17",
+    "day": 18,
+    "reportedCases": 532,
+    "estimatedCases": 537,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-18",
+    "day": 19,
+    "reportedCases": 657,
+    "estimatedCases": 672,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-19",
+    "day": 20,
+    "reportedCases": 759,
+    "estimatedCases": 612,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-20",
+    "day": 21,
+    "reportedCases": 944,
+    "estimatedCases": 999,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-21",
+    "day": 22,
+    "reportedCases": 943,
+    "estimatedCases": 1160,
+    "isEstimated": true
+  },
+  {
+    "date": "2025-03-22",
+    "day": 23,
+    "reportedCases": 890,
+    "estimatedCases": 1081,
+    "isEstimated": true
+  },
+  {
+    "date": "2025-03-23",
+    "day": 24,
+    "reportedCases": 880,
+    "estimatedCases": 994,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-24",
+    "day": 25,
+    "reportedCases": 772,
+    "estimatedCases": 904,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-25",
+    "day": 26,
+    "reportedCases": 747,
+    "estimatedCases": 720,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-26",
+    "day": 27,
+    "reportedCases": 556,
+    "estimatedCases": 704,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-27",
+    "day": 28,
+    "reportedCases": 594,
+    "estimatedCases": 546,
+    "isEstimated": false
+  },
+  {
+    "date": "2025-03-28",
+    "day": 29,
+    "reportedCases": 464,
+    "estimatedCases": 481,
+    "isEstimated": true
+  },
+  {
+    "date": "2025-03-29",
+    "day": 30,
+    "reportedCases": 428,
+    "estimatedCases": 459,
+    "isEstimated": true
+  }
+]

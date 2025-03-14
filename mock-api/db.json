@@ -1,0 +1,44 @@
+{
+  "cities": [
+    {
+      "id": "sandiego",
+      "name": "San Diego",
+      "state": "California",
+      "coordinates": [
+        32.7157,
+        -117.1611
+      ],
+      "totalTracts": 628
+    },
+    {
+      "id": "nyc",
+      "name": "New York City",
+      "state": "New York",
+      "coordinates": [
+        40.7128,
+        -74.006
+      ],
+      "totalTracts": 2168
+    }
+  ],
+  "diseases": [
+    {
+      "id": "influenza",
+      "name": "Influenza",
+      "description": "Seasonal influenza"
+    },
+    {
+      "id": "covid19",
+      "name": "COVID-19",
+      "description": "SARS-CoV-2 virus"
+    },
+    {
+      "id": "rsv",
+      "name": "RSV",
+      "description": "Respiratory Syncytial Virus"
+    }
+  ],
+  "facilities": [],
+  "reportingStats": [],
+  "tractCoverage": []
+}

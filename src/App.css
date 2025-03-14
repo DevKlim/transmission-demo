@@ -1,0 +1,171 @@
+/* Additional styles beyond Tailwind CSS */
+
+/* Leaflet map container */
+.leaflet-container {
+  height: 100%;
+  min-height: 500px;
+  width: 100%;
+  z-index: 1;
+}
+
+/* Override Leaflet defaults */
+.leaflet-popup-content-wrapper {
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.leaflet-popup-content {
+  margin: 0.75rem;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+
+.leaflet-control {
+  border-radius: 0.375rem !important;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05) !important;
+}
+
+/* Map legend styles */
+.legend {
+  background-color: white;
+  padding: 0.75rem;
+  border-radius: 0.375rem;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.legend h4 {
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+}
+
+.legend i {
+  width: 1rem;
+  height: 1rem;
+  display: inline-block;
+  margin-right: 0.5rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+/* Animation styles */
+@keyframes pulse {
+  0% { opacity: 0.6; }
+  50% { opacity: 1; }
+  100% { opacity: 0.6; }
+}
+
+.animate-pulse {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Heat map gradient legend */
+.gradient-legend {
+  height: 0.75rem;
+  width: 100%;
+  background: linear-gradient(to right, blue, lime, yellow, red);
+  margin: 0.5rem 0;
+  border-radius: 0.25rem;
+}
+
+/* Info panel styles */
+#info-panel {
+  min-width: 200px;
+}
+
+.info-title {
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.info-date {
+  font-size: 0.875rem;
+  color: #4b5563;
+  margin-bottom: 0.5rem;
+}
+
+.info-cases {
+  font-weight: 600;
+  font-size: 1.125rem;
+  margin-bottom: 0.5rem;
+}
+
+.info-stats {
+  font-size: 0.75rem;
+  color: #6b7280;
+}
+
+/* Trend chart styles */
+.trend-chart svg {
+  overflow: visible;
+}
+
+/* For Recharts tooltips */
+.recharts-tooltip-wrapper {
+  z-index: 1000;
+}
+
+/* Custom range slider appearance */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 0.5rem;
+  border-radius: 0.25rem;
+  background: #e5e7eb;
+  outline: none;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: #3b82f6;
+  cursor: pointer;
+  border: none;
+}
+
+input[type="range"]::-moz-range-thumb {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: #3b82f6;
+  cursor: pointer;
+  border: none;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+::-webkit-scrollbar-track {
+  background: #f3f4f6;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border-radius: 0.25rem;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9ca3af;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  .leaflet-container {
+    min-height: 400px;
+  }
+}
+
+@media (max-width: 640px) {
+  .leaflet-container {
+    min-height: 350px;
+  }
+}

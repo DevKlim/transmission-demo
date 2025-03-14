@@ -1,0 +1,5026 @@
+{
+  "06073000001": {
+    "totalCases": 3,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000002": {
+    "totalCases": 60,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000003": {
+    "totalCases": 41,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000004": {
+    "totalCases": 22,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000005": {
+    "totalCases": 3,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000006": {
+    "totalCases": 16,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000007": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000008": {
+    "totalCases": 54,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000009": {
+    "totalCases": 73,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000010": {
+    "totalCases": 41,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000011": {
+    "totalCases": 13,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000012": {
+    "totalCases": 70,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000013": {
+    "totalCases": 51,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000014": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000015": {
+    "totalCases": 13,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000016": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000017": {
+    "totalCases": 25,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000018": {
+    "totalCases": 44,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000019": {
+    "totalCases": 63,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000020": {
+    "totalCases": 33,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000021": {
+    "totalCases": 24,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000022": {
+    "totalCases": 4,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000023": {
+    "totalCases": 65,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000024": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000025": {
+    "totalCases": 24,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000026": {
+    "totalCases": 4,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000027": {
+    "totalCases": 16,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000028": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000029": {
+    "totalCases": 56,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000030": {
+    "totalCases": 21,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000031": {
+    "totalCases": 40,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000032": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000033": {
+    "totalCases": 70,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000034": {
+    "totalCases": 51,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000035": {
+    "totalCases": 33,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000036": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000037": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000038": {
+    "totalCases": 24,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000039": {
+    "totalCases": 43,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000040": {
+    "totalCases": 11,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000041": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000042": {
+    "totalCases": 49,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000043": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000044": {
+    "totalCases": 61,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000045": {
+    "totalCases": 42,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000046": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000047": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000048": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.79,
+      "isEstimated": false
+    }
+  },
+  "06073000049": {
+    "totalCases": 33,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000050": {
+    "totalCases": 2,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000051": {
+    "totalCases": 21,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000052": {
+    "totalCases": 40,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000053": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.79,
+      "isEstimated": false
+    }
+  },
+  "06073000054": {
+    "totalCases": 74,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000055": {
+    "totalCases": 55,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000056": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000057": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000058": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000059": {
+    "totalCases": 25,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000060": {
+    "totalCases": 67,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000061": {
+    "totalCases": 11,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000062": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.79,
+      "isEstimated": false
+    }
+  },
+  "06073000063": {
+    "totalCases": 48,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000064": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000065": {
+    "totalCases": 58,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000066": {
+    "totalCases": 40,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000067": {
+    "totalCases": 22,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000068": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000069": {
+    "totalCases": 13,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000070": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000071": {
+    "totalCases": 1,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000072": {
+    "totalCases": 18,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000073": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000074": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000075": {
+    "totalCases": 67,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000076": {
+    "totalCases": 49,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000077": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000078": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000079": {
+    "totalCases": 4,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000080": {
+    "totalCases": 44,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000081": {
+    "totalCases": 62,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000082": {
+    "totalCases": 9,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000083": {
+    "totalCases": 27,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000084": {
+    "totalCases": 44,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000085": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000086": {
+    "totalCases": 58,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000087": {
+    "totalCases": 41,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000088": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000089": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000090": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000091": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000092": {
+    "totalCases": 0,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000093": {
+    "totalCases": 18,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000094": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000095": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000096": {
+    "totalCases": 67,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000097": {
+    "totalCases": 50,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000098": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000099": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000100": {
+    "totalCases": 28,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000101": {
+    "totalCases": 60,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000102": {
+    "totalCases": 7,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000103": {
+    "totalCases": 25,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000104": {
+    "totalCases": 42,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000105": {
+    "totalCases": 60,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000106": {
+    "totalCases": 60,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000107": {
+    "totalCases": 43,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000108": {
+    "totalCases": 25,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000109": {
+    "totalCases": 8,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000110": {
+    "totalCases": 37,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000111": {
+    "totalCases": 51,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000112": {
+    "totalCases": 68,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000113": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000114": {
+    "totalCases": 33,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000115": {
+    "totalCases": 51,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000116": {
+    "totalCases": 70,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.79,
+      "isEstimated": false
+    }
+  },
+  "06073000117": {
+    "totalCases": 52,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000118": {
+    "totalCases": 34,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000119": {
+    "totalCases": 17,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000120": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000121": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000122": {
+    "totalCases": 59,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000123": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000124": {
+    "totalCases": 24,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000125": {
+    "totalCases": 41,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.79,
+      "isEstimated": false
+    }
+  },
+  "06073000126": {
+    "totalCases": 59,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000127": {
+    "totalCases": 56,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000128": {
+    "totalCases": 40,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000129": {
+    "totalCases": 24,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000130": {
+    "totalCases": 51,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.79,
+      "isEstimated": false
+    }
+  },
+  "06073000131": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000132": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000133": {
+    "totalCases": 62,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000134": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000135": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000136": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000137": {
+    "totalCases": 62,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000138": {
+    "totalCases": 49,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000139": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000140": {
+    "totalCases": 60,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000141": {
+    "totalCases": 43,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000142": {
+    "totalCases": 27,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000143": {
+    "totalCases": 54,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000144": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000145": {
+    "totalCases": 21,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000146": {
+    "totalCases": 38,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000147": {
+    "totalCases": 54,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000148": {
+    "totalCases": 57,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000149": {
+    "totalCases": 41,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000150": {
+    "totalCases": 3,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000151": {
+    "totalCases": 52,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000152": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000153": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000154": {
+    "totalCases": 62,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000155": {
+    "totalCases": 13,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000156": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000157": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000158": {
+    "totalCases": 62,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000159": {
+    "totalCases": 49,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000160": {
+    "totalCases": 12,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000161": {
+    "totalCases": 60,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000162": {
+    "totalCases": 44,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000163": {
+    "totalCases": 28,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000164": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000165": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000166": {
+    "totalCases": 21,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000167": {
+    "totalCases": 37,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000168": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000169": {
+    "totalCases": 58,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000170": {
+    "totalCases": 20,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000171": {
+    "totalCases": 4,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000172": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000173": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000174": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000175": {
+    "totalCases": 61,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000176": {
+    "totalCases": 12,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000177": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000178": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000179": {
+    "totalCases": 61,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000180": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000181": {
+    "totalCases": 12,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000182": {
+    "totalCases": 61,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000183": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000184": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000185": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000186": {
+    "totalCases": 4,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000187": {
+    "totalCases": 20,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000188": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000189": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000190": {
+    "totalCases": 37,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000191": {
+    "totalCases": 21,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000192": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000193": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000194": {
+    "totalCases": 37,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000195": {
+    "totalCases": 44,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000196": {
+    "totalCases": 60,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000197": {
+    "totalCases": 12,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000198": {
+    "totalCases": 28,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000199": {
+    "totalCases": 44,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000200": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000201": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000202": {
+    "totalCases": 63,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000203": {
+    "totalCases": 47,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000204": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000205": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000206": {
+    "totalCases": 2,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000207": {
+    "totalCases": 18,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000208": {
+    "totalCases": 34,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000209": {
+    "totalCases": 51,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000210": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000211": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000212": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000213": {
+    "totalCases": 55,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000214": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000215": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000216": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000217": {
+    "totalCases": 10,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000218": {
+    "totalCases": 26,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000219": {
+    "totalCases": 42,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000220": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000221": {
+    "totalCases": 31,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000222": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000223": {
+    "totalCases": 64,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000224": {
+    "totalCases": 47,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000225": {
+    "totalCases": 31,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000226": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000227": {
+    "totalCases": 1,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000228": {
+    "totalCases": 18,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000229": {
+    "totalCases": 34,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000230": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000231": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000232": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000233": {
+    "totalCases": 7,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000234": {
+    "totalCases": 56,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000235": {
+    "totalCases": 40,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000236": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000237": {
+    "totalCases": 7,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000238": {
+    "totalCases": 9,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000239": {
+    "totalCases": 25,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000240": {
+    "totalCases": 63,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000241": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000242": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000243": {
+    "totalCases": 16,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000244": {
+    "totalCases": 64,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000245": {
+    "totalCases": 48,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000246": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000247": {
+    "totalCases": 16,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000248": {
+    "totalCases": 1,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000249": {
+    "totalCases": 17,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000250": {
+    "totalCases": 54,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000251": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000252": {
+    "totalCases": 22,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000253": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000254": {
+    "totalCases": 7,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000255": {
+    "totalCases": 52,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000256": {
+    "totalCases": 37,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000257": {
+    "totalCases": 22,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000258": {
+    "totalCases": 7,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000259": {
+    "totalCases": 8,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000260": {
+    "totalCases": 42,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000261": {
+    "totalCases": 57,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000262": {
+    "totalCases": 12,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000263": {
+    "totalCases": 27,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000264": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000265": {
+    "totalCases": 0,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000266": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000267": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000268": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000269": {
+    "totalCases": 0,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000270": {
+    "totalCases": 34,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000271": {
+    "totalCases": 49,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000272": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000273": {
+    "totalCases": 20,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000274": {
+    "totalCases": 34,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000275": {
+    "totalCases": 8,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000276": {
+    "totalCases": 52,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000277": {
+    "totalCases": 37,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000278": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000279": {
+    "totalCases": 8,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000280": {
+    "totalCases": 27,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000281": {
+    "totalCases": 42,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000282": {
+    "totalCases": 56,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000283": {
+    "totalCases": 12,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000284": {
+    "totalCases": 27,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000285": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000286": {
+    "totalCases": 1,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000287": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000288": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000289": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000290": {
+    "totalCases": 19,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000291": {
+    "totalCases": 34,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000292": {
+    "totalCases": 49,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000293": {
+    "totalCases": 4,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000294": {
+    "totalCases": 19,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000295": {
+    "totalCases": 34,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000296": {
+    "totalCases": 8,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000297": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000298": {
+    "totalCases": 38,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000299": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000300": {
+    "totalCases": 34,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000301": {
+    "totalCases": 40,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000302": {
+    "totalCases": 55,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000303": {
+    "totalCases": 10,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000304": {
+    "totalCases": 25,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000305": {
+    "totalCases": 40,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000306": {
+    "totalCases": 2,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000307": {
+    "totalCases": 47,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000308": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000309": {
+    "totalCases": 17,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000310": {
+    "totalCases": 42,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000311": {
+    "totalCases": 27,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000312": {
+    "totalCases": 47,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.79,
+      "isEstimated": false
+    }
+  },
+  "06073000313": {
+    "totalCases": 2,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000314": {
+    "totalCases": 17,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000315": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000316": {
+    "totalCases": 47,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000317": {
+    "totalCases": 55,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000318": {
+    "totalCases": 40,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000319": {
+    "totalCases": 25,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000320": {
+    "totalCases": 50,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000321": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000322": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000323": {
+    "totalCases": 54,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000324": {
+    "totalCases": 10,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000325": {
+    "totalCases": 24,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000326": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000327": {
+    "totalCases": 54,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000328": {
+    "totalCases": 48,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000329": {
+    "totalCases": 33,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000330": {
+    "totalCases": 58,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000331": {
+    "totalCases": 43,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000332": {
+    "totalCases": 28,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000333": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000334": {
+    "totalCases": 2,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000335": {
+    "totalCases": 17,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000336": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000337": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000338": {
+    "totalCases": 55,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000339": {
+    "totalCases": 40,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000340": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000341": {
+    "totalCases": 51,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000342": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000343": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000344": {
+    "totalCases": 54,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000345": {
+    "totalCases": 9,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000346": {
+    "totalCases": 24,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000347": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000348": {
+    "totalCases": 54,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000349": {
+    "totalCases": 48,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000350": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000351": {
+    "totalCases": 58,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000352": {
+    "totalCases": 43,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000353": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000354": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000355": {
+    "totalCases": 1,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000356": {
+    "totalCases": 16,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000357": {
+    "totalCases": 31,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000358": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000359": {
+    "totalCases": 56,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000360": {
+    "totalCases": 21,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000361": {
+    "totalCases": 7,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000362": {
+    "totalCases": 51,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000363": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000364": {
+    "totalCases": 38,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000365": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000366": {
+    "totalCases": 8,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000367": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.79,
+      "isEstimated": false
+    }
+  },
+  "06073000368": {
+    "totalCases": 38,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000369": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000370": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000371": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000372": {
+    "totalCases": 59,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.79,
+      "isEstimated": false
+    }
+  },
+  "06073000373": {
+    "totalCases": 44,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000374": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000375": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000376": {
+    "totalCases": 1,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000377": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000378": {
+    "totalCases": 28,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000379": {
+    "totalCases": 41,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000380": {
+    "totalCases": 34,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000381": {
+    "totalCases": 20,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000382": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000383": {
+    "totalCases": 47,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000384": {
+    "totalCases": 34,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000385": {
+    "totalCases": 34,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000386": {
+    "totalCases": 48,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000387": {
+    "totalCases": 7,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000388": {
+    "totalCases": 21,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000389": {
+    "totalCases": 34,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000390": {
+    "totalCases": 11,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000391": {
+    "totalCases": 27,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000392": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000393": {
+    "totalCases": 0,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000394": {
+    "totalCases": 41,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000395": {
+    "totalCases": 27,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000396": {
+    "totalCases": 41,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000397": {
+    "totalCases": 0,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000398": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000399": {
+    "totalCases": 27,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000400": {
+    "totalCases": 17,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000401": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000402": {
+    "totalCases": 8,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000403": {
+    "totalCases": 49,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000404": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000405": {
+    "totalCases": 22,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000406": {
+    "totalCases": 8,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000407": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000408": {
+    "totalCases": 19,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000409": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000410": {
+    "totalCases": 10,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000411": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000412": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000413": {
+    "totalCases": 2,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000414": {
+    "totalCases": 42,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000415": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000416": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000417": {
+    "totalCases": 52,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000418": {
+    "totalCases": 12,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000419": {
+    "totalCases": 25,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000420": {
+    "totalCases": 3,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000421": {
+    "totalCases": 16,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000422": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000423": {
+    "totalCases": 9,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000424": {
+    "totalCases": 49,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000425": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000426": {
+    "totalCases": 22,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000427": {
+    "totalCases": 9,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000428": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000429": {
+    "totalCases": 18,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000430": {
+    "totalCases": 50,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000431": {
+    "totalCases": 9,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000432": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000433": {
+    "totalCases": 16,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000434": {
+    "totalCases": 2,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000435": {
+    "totalCases": 43,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.79,
+      "isEstimated": false
+    }
+  },
+  "06073000436": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000437": {
+    "totalCases": 16,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000438": {
+    "totalCases": 52,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000439": {
+    "totalCases": 11,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000440": {
+    "totalCases": 43,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000441": {
+    "totalCases": 2,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000442": {
+    "totalCases": 16,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000443": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000444": {
+    "totalCases": 9,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000445": {
+    "totalCases": 50,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000446": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000447": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000448": {
+    "totalCases": 9,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000449": {
+    "totalCases": 4,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000450": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000451": {
+    "totalCases": 49,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000452": {
+    "totalCases": 9,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000453": {
+    "totalCases": 22,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000454": {
+    "totalCases": 16,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000455": {
+    "totalCases": 3,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000456": {
+    "totalCases": 43,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000457": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000458": {
+    "totalCases": 16,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000459": {
+    "totalCases": 51,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000460": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000461": {
+    "totalCases": 42,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000462": {
+    "totalCases": 2,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000463": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000464": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000465": {
+    "totalCases": 10,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000466": {
+    "totalCases": 50,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000467": {
+    "totalCases": 37,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000468": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000469": {
+    "totalCases": 10,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000470": {
+    "totalCases": 22,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000471": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000472": {
+    "totalCases": 49,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000473": {
+    "totalCases": 8,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000474": {
+    "totalCases": 22,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000475": {
+    "totalCases": 17,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000476": {
+    "totalCases": 3,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000477": {
+    "totalCases": 44,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000478": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000479": {
+    "totalCases": 17,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000480": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000481": {
+    "totalCases": 28,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000482": {
+    "totalCases": 42,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000483": {
+    "totalCases": 1,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000484": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000485": {
+    "totalCases": 28,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000486": {
+    "totalCases": 10,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000487": {
+    "totalCases": 51,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000488": {
+    "totalCases": 37,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000489": {
+    "totalCases": 24,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000490": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000491": {
+    "totalCases": 21,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.79,
+      "isEstimated": false
+    }
+  },
+  "06073000492": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000493": {
+    "totalCases": 48,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000494": {
+    "totalCases": 8,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000495": {
+    "totalCases": 21,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000496": {
+    "totalCases": 17,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000497": {
+    "totalCases": 4,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000498": {
+    "totalCases": 44,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000499": {
+    "totalCases": 31,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000500": {
+    "totalCases": 41,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000501": {
+    "totalCases": 28,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000502": {
+    "totalCases": 40,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000503": {
+    "totalCases": 54,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000504": {
+    "totalCases": 13,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000505": {
+    "totalCases": 26,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000506": {
+    "totalCases": 40,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000507": {
+    "totalCases": 52,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000508": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000509": {
+    "totalCases": 25,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000510": {
+    "totalCases": 48,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000511": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000512": {
+    "totalCases": 33,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000513": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000514": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000515": {
+    "totalCases": 19,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000516": {
+    "totalCases": 33,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000517": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.86,
+      "isEstimated": false
+    }
+  },
+  "06073000518": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000519": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000520": {
+    "totalCases": 1,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000521": {
+    "totalCases": 42,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000522": {
+    "totalCases": 28,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000523": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000524": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000525": {
+    "totalCases": 12,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000526": {
+    "totalCases": 26,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000527": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000528": {
+    "totalCases": 53,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000529": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000530": {
+    "totalCases": 8,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000531": {
+    "totalCases": 49,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000532": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000533": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000534": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000535": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000536": {
+    "totalCases": 19,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000537": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000538": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000539": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000540": {
+    "totalCases": 15,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000541": {
+    "totalCases": 2,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000542": {
+    "totalCases": 42,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000543": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000544": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000545": {
+    "totalCases": 52,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000546": {
+    "totalCases": 12,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000547": {
+    "totalCases": 25,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000548": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000549": {
+    "totalCases": 54,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000550": {
+    "totalCases": 24,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000551": {
+    "totalCases": 10,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000552": {
+    "totalCases": 56,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000553": {
+    "totalCases": 41,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000554": {
+    "totalCases": 37,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.79,
+      "isEstimated": false
+    }
+  },
+  "06073000555": {
+    "totalCases": 54,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000556": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000557": {
+    "totalCases": 22,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000558": {
+    "totalCases": 39,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000559": {
+    "totalCases": 56,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000560": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000561": {
+    "totalCases": 19,
+    "qualityMetrics": {
+      "completenessScore": 0.8899999999999999,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000562": {
+    "totalCases": 3,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000563": {
+    "totalCases": 52,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000564": {
+    "totalCases": 35,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000565": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000566": {
+    "totalCases": 61,
+    "qualityMetrics": {
+      "completenessScore": 0.76,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000567": {
+    "totalCases": 13,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000568": {
+    "totalCases": 28,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000569": {
+    "totalCases": 43,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000570": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000571": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000572": {
+    "totalCases": 9,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000573": {
+    "totalCases": 50,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.9199999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000574": {
+    "totalCases": 36,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.6699999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000575": {
+    "totalCases": 31,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000576": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000577": {
+    "totalCases": 4,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000578": {
+    "totalCases": 18,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000579": {
+    "totalCases": 31,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000580": {
+    "totalCases": 9,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.96,
+      "isEstimated": false
+    }
+  },
+  "06073000581": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000582": {
+    "totalCases": 16,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000583": {
+    "totalCases": 3,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.85,
+      "isEstimated": false
+    }
+  },
+  "06073000584": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000585": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.75,
+      "isEstimated": false
+    }
+  },
+  "06073000586": {
+    "totalCases": 41,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000587": {
+    "totalCases": 57,
+    "qualityMetrics": {
+      "completenessScore": 0.85,
+      "confidenceScore": 0.95,
+      "isEstimated": false
+    }
+  },
+  "06073000588": {
+    "totalCases": 12,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000589": {
+    "totalCases": 28,
+    "qualityMetrics": {
+      "completenessScore": 0.95,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000590": {
+    "totalCases": 2,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000591": {
+    "totalCases": 47,
+    "qualityMetrics": {
+      "completenessScore": 0.98,
+      "confidenceScore": 0.88,
+      "isEstimated": false
+    }
+  },
+  "06073000592": {
+    "totalCases": 30,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.63,
+      "isEstimated": false
+    }
+  },
+  "06073000593": {
+    "totalCases": 12,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.78,
+      "isEstimated": false
+    }
+  },
+  "06073000594": {
+    "totalCases": 64,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000595": {
+    "totalCases": 46,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000596": {
+    "totalCases": 38,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.77,
+      "isEstimated": false
+    }
+  },
+  "06073000597": {
+    "totalCases": 55,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.62,
+      "isEstimated": false
+    }
+  },
+  "06073000598": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000599": {
+    "totalCases": 21,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000600": {
+    "totalCases": 9,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000601": {
+    "totalCases": 27,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000602": {
+    "totalCases": 23,
+    "qualityMetrics": {
+      "completenessScore": 0.9299999999999999,
+      "confidenceScore": 0.9299999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000603": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.8799999999999999,
+      "confidenceScore": 0.6799999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000604": {
+    "totalCases": 60,
+    "qualityMetrics": {
+      "completenessScore": 0.83,
+      "confidenceScore": 0.83,
+      "isEstimated": false
+    }
+  },
+  "06073000605": {
+    "totalCases": 42,
+    "qualityMetrics": {
+      "completenessScore": 0.7799999999999999,
+      "confidenceScore": 0.98,
+      "isEstimated": false
+    }
+  },
+  "06073000606": {
+    "totalCases": 24,
+    "qualityMetrics": {
+      "completenessScore": 0.73,
+      "confidenceScore": 0.73,
+      "isEstimated": false
+    }
+  },
+  "06073000607": {
+    "totalCases": 68,
+    "qualityMetrics": {
+      "completenessScore": 0.72,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000608": {
+    "totalCases": 13,
+    "qualityMetrics": {
+      "completenessScore": 0.77,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000609": {
+    "totalCases": 31,
+    "qualityMetrics": {
+      "completenessScore": 0.82,
+      "confidenceScore": 0.82,
+      "isEstimated": false
+    }
+  },
+  "06073000610": {
+    "totalCases": 0,
+    "qualityMetrics": {
+      "completenessScore": 0.5,
+      "confidenceScore": 0.3,
+      "isEstimated": true
+    }
+  },
+  "06073000611": {
+    "totalCases": 17,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.65,
+      "isEstimated": false
+    }
+  },
+  "06073000612": {
+    "totalCases": 33,
+    "qualityMetrics": {
+      "completenessScore": 0.75,
+      "confidenceScore": 0.55,
+      "isEstimated": true
+    }
+  },
+  "06073000613": {
+    "totalCases": 14,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000614": {
+    "totalCases": 62,
+    "qualityMetrics": {
+      "completenessScore": 0.96,
+      "confidenceScore": 0.76,
+      "isEstimated": false
+    }
+  },
+  "06073000615": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  },
+  "06073000616": {
+    "totalCases": 29,
+    "qualityMetrics": {
+      "completenessScore": 0.86,
+      "confidenceScore": 0.6599999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000617": {
+    "totalCases": 13,
+    "qualityMetrics": {
+      "completenessScore": 0.525,
+      "confidenceScore": 0.325,
+      "isEstimated": true
+    }
+  },
+  "06073000618": {
+    "totalCases": 2,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.64,
+      "isEstimated": false
+    }
+  },
+  "06073000619": {
+    "totalCases": 17,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.8899999999999999,
+      "isEstimated": false
+    }
+  },
+  "06073000620": {
+    "totalCases": 47,
+    "qualityMetrics": {
+      "completenessScore": 0.87,
+      "confidenceScore": 0.87,
+      "isEstimated": false
+    }
+  },
+  "06073000621": {
+    "totalCases": 6,
+    "qualityMetrics": {
+      "completenessScore": 0.9199999999999999,
+      "confidenceScore": 0.72,
+      "isEstimated": false
+    }
+  },
+  "06073000622": {
+    "totalCases": 20,
+    "qualityMetrics": {
+      "completenessScore": 0.97,
+      "confidenceScore": 0.97,
+      "isEstimated": false
+    }
+  },
+  "06073000623": {
+    "totalCases": 18,
+    "qualityMetrics": {
+      "completenessScore": 0.84,
+      "confidenceScore": 0.94,
+      "isEstimated": false
+    }
+  },
+  "06073000624": {
+    "totalCases": 5,
+    "qualityMetrics": {
+      "completenessScore": 0.7899999999999999,
+      "confidenceScore": 0.69,
+      "isEstimated": false
+    }
+  },
+  "06073000625": {
+    "totalCases": 45,
+    "qualityMetrics": {
+      "completenessScore": 0.74,
+      "confidenceScore": 0.84,
+      "isEstimated": false
+    }
+  },
+  "06073000626": {
+    "totalCases": 32,
+    "qualityMetrics": {
+      "completenessScore": 0.99,
+      "confidenceScore": 0.99,
+      "isEstimated": false
+    }
+  },
+  "06073000627": {
+    "totalCases": 18,
+    "qualityMetrics": {
+      "completenessScore": 0.94,
+      "confidenceScore": 0.74,
+      "isEstimated": false
+    }
+  },
+  "06073000628": {
+    "totalCases": 49,
+    "qualityMetrics": {
+      "completenessScore": 0.775,
+      "confidenceScore": 0.575,
+      "isEstimated": true
+    }
+  }
+}
